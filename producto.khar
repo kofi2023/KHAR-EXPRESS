@@ -12,9 +12,9 @@
 <center>
 <a href="https://wa.me/+573207812955">
 <img src="menu/CONTACTO (250 x 75 px).png">
-<a href="producto.khar">
+<a href="menu/PRODUCTO.khar">
 <img src="PRODUCTO.png"></a>
-<a href="inicio.khar">
+<a href="menu/INICIO (1).khar">
 <img src="INICIO (1).png"></center></a>
 
 
@@ -46,8 +46,8 @@
 
 <center>
 <a href="https://wa.me/+573207812955"><img src="menu/CONTACTO (250 x 75 px).png"></a>
-<a href="producto.khar"><img src="PRODUCTO.png"></a>
-<a href="inicio.khar"><img src="INICIO (1).png"></a>
+<a href="PRODUCTO.khar"><img src="menu/PRODUCTO.png"></a>
+<a href="INICIO (1).khar"><img src="menu/INICIO (1).png"></a>
 </center>
 </td></tr></table></center>
 </body>
